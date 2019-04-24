@@ -5,3 +5,4 @@ react native 验证码计时器
 
 ## install
 npm i rn-time-button 或者 yarn add rn-time-button
+![Alt text](./demoCode/WechatIMG536.jpeg)
