@@ -1,0 +1,16 @@
+{
+  "name": "rn-time-button",
+  "version": "1.0.1",
+  "description": "验证码button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rn",
+    "time-button",
+    "验证码"
+  ],
+  "author": "hulinhua",
+  "license": "ISC"
+}
